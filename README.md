@@ -1,4 +1,4 @@
-# S<sub>y</sub>napKit
+# S<sub>y</sub>napSideKick
 
 **Modular real-time sorter-agnostic spike sorting and stimulation**
 
